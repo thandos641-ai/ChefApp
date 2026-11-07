@@ -1,1 +1,2 @@
 # ChefApp
+I made several improvements to my Chef App to make it more user-friendly and easier to manage. I added an Add button to allow users to add new menu items, an Edit button to update existing items, and a Delete button to remove items that are no longer needed. I also added a Profile page where users can view and manage their personal information. These changes improve the app's functionality, make menu management easier, and provide a better user experience.
